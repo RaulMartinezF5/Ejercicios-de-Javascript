@@ -1,3 +1,0 @@
-
-    var iva = ()
-    var precio = ()
